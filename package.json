@@ -1,0 +1,28 @@
+{
+  "name": "beginner-tailwind-site",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=1  git clone repo cd repo code .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite src/",
+	"build": "vite build src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeborg/beginner-tailwind-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeborg/beginner-tailwind-site/issues"
+  },
+  "homepage": "https://github.com/jeromeborg/beginner-tailwind-site#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.7",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.0.5"
+  }
+}
