@@ -32,5 +32,5 @@ npx tailwindcss init -p
 <link href="css/tailwind.css" rel="stylesheet">
 
 // tailwind.config.js
-"./src/**/*.jsx", "index.html"
+"./src/**/*.jsx", "./src/**/*.js",  "index.html"
 npm start
